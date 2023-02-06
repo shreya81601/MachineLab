@@ -24,7 +24,7 @@
 
 <h2>The Process Gallery</h2>
 <p>Here are some photos and videos of 'The Making':</p>
-<img src="1.jpg">
+<img src="1.jpg" style="height=100">
 
 <h2>The Final Video</h2>
 <p>Here is a one minute working video of my cardboard automata:</p>
