@@ -40,5 +40,5 @@
 </p>
 
 <h2>The Final Video</h2>
-<p>Here is a one minute working video of my cardboard automata: [https://youtu.be/LtGzEgdBadI](https://youtu.be/rKQgD1PPN0U)
+<p>Here is a one minute working video of my cardboard automata: ![https://youtu.be/LtGzEgdBadI](https://youtu.be/rKQgD1PPN0U)
 </p>
