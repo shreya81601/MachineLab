@@ -23,7 +23,7 @@
 </p>
 
 <h2>The Process Gallery</h2>
-<p>Here are some photos and videos of 'The Making':</p>
+<p>Here are some photos and videos of 'The Making'.</p>
 <div display=inline-flex>
 <img src="2.jpg" height="250">
 <img src="1.jpg" height="250">
@@ -32,7 +32,13 @@
 <img src="5.jpg" height="250">
 <img src="6.jpg" height="250">
 </div>
-<video src="1.mp4">
+<p>
+<li>A simple cam and crank mechanism:
+</p>
+<p>
+<li>Slider working on the floor (no platform yet):
+</p>
 
 <h2>The Final Video</h2>
-<p>Here is a one minute working video of my cardboard automata:</p>
+<p>Here is a one minute working video of my cardboard automata:
+</p>
