@@ -33,12 +33,12 @@
 <img src="6.jpg" height="250">
 </div>
 <p>
-<li>A simple cam and crank mechanism:<br>https://youtu.be/LtGzEgdBadI
+<li>A simple cam and crank mechanism: https://youtu.be/LtGzEgdBadI
 </p>
 <p>
-<li>Slider working on the floor (no platform yet):<br>https://youtu.be/AjV7Yu9J63E
+<li>Slider working on the floor (no platform yet): https://youtu.be/AjV7Yu9J63E
 </p>
 
 <h2>The Final Video</h2>
-<p>Here is a one minute working video of my cardboard automata:<br>
+<p>Here is a one minute working video of my cardboard automata: https://youtu.be/LtGzEgdBadI
 </p>
