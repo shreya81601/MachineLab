@@ -14,13 +14,15 @@
 	of wood techniques.
 </p>
 
+<br> 
+
 <p>
 	This is what I made after a 3 hour workshop: My Little Fishy!
 </p>
 
 <img src='fishy.jpg'>
 
-<p>Here are some photos of 'The Making'.</p>
+// <p>Here are some photos of 'The Making'.</p>
 <div display=inline-flex>
 	<img src="1.jpg" height="250">
 	<img src="3.jpg" height="250">
