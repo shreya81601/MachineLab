@@ -49,7 +49,7 @@ And this is how it inspired my clock mechanism idea and how I incorporated it:
 	<li>A celebratory clapping sound is played if the probabilty theory holds, or a sigh is heard if not.
 </ul>
 
-** Note: The donkey and prize car can be replaced with other things.
+** Note: The donkey and prize car can be replaced with other things which go with the overall concept/theme or mybe math problems ;)
 </p>
 
 <!-- <br> -->
