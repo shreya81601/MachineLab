@@ -38,7 +38,7 @@ And this is how it inspired my clock mechanism idea and how I incorporated it:
 <!-- <h4>The mechanism:</h4> -->
 
 <!-- <div display=inline-flex> -->
-<img src="9.png">
+<img src="9.png" width="50%">
 <img src="10.png">
 <img src="11.png">
 <!-- <img src="8.jpg" height="250"> -->
