@@ -1,11 +1,33 @@
 # Rough First Draft for Clock Mechanism
 A MATHEMTICAL CLOCK
 
+My life has mostly revolved around mathematics - learning, teaching, solving logical puzzels, playing math games, researching, etc. 
+<br>So, when I got to the chance to design my own clock, of course I searched for math inspirations!
+Also, whenever Ithink of a clock, I am remnded of houses - maybe because of the cuckoo clock I had in my home as a kid which had a house structure at the top. Also, there are many house clocks I have seen growing up and my childhoos was spent with doll houses, I wanted to incorporate this theme in my clock as well. Here are some inspirations photos I looked at:
+
 <h3>Inspiration Photos</h3>
+
+<p>Some math clocks</p>
 <div display=inline-flex>
-<img src="1.jpg" width="400">
-<img src="2.jpg" width="400">
-<img src="3.jpg" width="400">
-<img src="4.jpg" width="400">
-<img src="5.jpg" width="400">
+<img src="1.jpg" height="250">
+<img src="2.jpg" height="250">
+<img src="3.jpg" height="250">
+<img src="4.jpg" height="250">
 </div>
+
+<p>Some house structures</p>
+<div display=inline-flex>
+<img src="5.jpg" height="250">
+<img src="6.jpg" height="250">
+<img src="7.jpg" height="250">
+<img src="8.jpg" height="250">
+</div>
+
+While searching, then it finally hit!! The Montly Hall math problem combines both these ideas of mine - math and a house!
+<br>Below is an exaplantion video of what the Montly Hall problem is:
+
+[link]
+
+And this is how it inspired my clock mechanism idea and how I incorporated it:
+
+[img]
