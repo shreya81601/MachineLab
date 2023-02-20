@@ -34,7 +34,14 @@ While searching, then it finally hit!! The Montly Hall math problem combines bot
 
 <p>
 And this is how it inspired my clock mechanism idea and how I incorporated it:
+<br>
+<!-- <h4>The mechanism:</h4> -->
 
-[img]
+<!-- <div display=inline-flex> -->
+<img src="9.png">
+<img src="10.ong">
+<img src="11.png">
+<!-- <img src="8.jpg" height="250"> -->
+<!-- </div> -->
 
 </p>
