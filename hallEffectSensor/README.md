@@ -7,9 +7,9 @@
 <p></p>
 
 <div display=inline-flex>
-<img src="1.png" height="240">
-<img src="2.png" height="240">
-<img src="3.png" height="240">
+<img src="1.png" height="235">
+<img src="2.png" height="235">
+<img src="3.png" height="235">
 </div>
 
 <h3>My Circuit</h3>
