@@ -19,10 +19,11 @@ Also, whenever Ithink of a clock, I am remnded of houses - maybe because of the 
 <div display=inline-flex>
 <img src="5.jpg" height="250">
 <img src="8.jpg" height="250">
-<img src="7.jpg" height="250">
+<img src="7.jpeg" height="250">
 <!-- <img src="8.jpg" height="250"> -->
 </div>
 
+<br><br>
 <p>
 While searching, then it finally hit!! The Montly Hall math problem combines both these ideas of mine - math and a house!
 <br>Below is an exaplantion video of what the Montly Hall problem is:
