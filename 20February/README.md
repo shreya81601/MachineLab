@@ -1,5 +1,5 @@
 # Rough First Draft for Clock Mechanism
-A MATHEMTICAL CLOCK
+<h2> A MATHEMTICAL CLOCK </h2>
 
 My life has mostly revolved around mathematics - learning, teaching, solving logical puzzels, playing math games, researching, etc. 
 <br>So, when I got to the chance to design my own clock, of course I searched for math inspirations!
@@ -10,7 +10,7 @@ Also, whenever Ithink of a clock, I am remnded of houses - maybe because of the 
 <p>Some math clocks</p>
 <div display=inline-flex>
 <img src="1.jpg" height="250">
-<img src="2.jpg" height="250">
+<!-- <img src="2.jpg" height="250"> -->
 <img src="3.jpg" height="250">
 <img src="4.jpg" height="250">
 </div>
@@ -20,14 +20,20 @@ Also, whenever Ithink of a clock, I am remnded of houses - maybe because of the 
 <img src="5.jpg" height="250">
 <img src="6.jpg" height="250">
 <img src="7.jpg" height="250">
-<img src="8.jpg" height="250">
+<!-- <img src="8.jpg" height="250"> -->
 </div>
 
+<p>
 While searching, then it finally hit!! The Montly Hall math problem combines both these ideas of mine - math and a house!
 <br>Below is an exaplantion video of what the Montly Hall problem is:
 
 [link]
 
+</p>
+
+<p>
 And this is how it inspired my clock mechanism idea and how I incorporated it:
 
 [img]
+
+</p>
