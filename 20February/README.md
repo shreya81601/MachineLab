@@ -49,7 +49,7 @@ And this is how it inspired my clock mechanism idea and how I incorporated it:
 	<li>A celebratory clapping sound is played if the probabilty theory holds, or a sigh is heard if not.
 </ul>
 
-** Note: 
+** Note: The donkey and prize car can be replaced with other things.
 </p>
 
 <!-- <br> -->
@@ -68,6 +68,7 @@ And this is how it inspired my clock mechanism idea and how I incorporated it:
 
 <ul>
 	<li>Not having any vote for the time period --> would need a tie breaking mechanism.
+	<li>Will the LEDs run for the whole year?
 </ul>
 
 </p>
