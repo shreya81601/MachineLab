@@ -7,16 +7,16 @@
 <p></p>
 
 <div display=inline-flex>
-<img src="1.png" height="250">
-<img src="2.png" height="250">
-<img src="3.png" height="250">
+<img src="1.png" height="220">
+<img src="2.png" height="220">
+<img src="3.png" height="220">
 </div>
 
 <h3>My Circuit</h3>
 <div display=inline-flex>
-<img src="5.jpg" height="220">
-<img src="6.jpg" height="220">
-<img src="8.jpg" height="220">
+<img src="5.jpg" height="250">
+<img src="6.jpg" height="250">
+<img src="8.jpg" height="250">
 </div>
 
 <h3>Problems</h3>
