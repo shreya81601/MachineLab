@@ -18,7 +18,7 @@ Also, whenever Ithink of a clock, I am remnded of houses - maybe because of the 
 <p>Some house structures</p>
 <div display=inline-flex>
 <img src="5.jpg" height="250">
-<img src="6.jpg" height="250">
+<img src="8.jpg" height="250">
 <img src="7.jpg" height="250">
 <!-- <img src="8.jpg" height="250"> -->
 </div>
