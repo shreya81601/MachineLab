@@ -23,7 +23,9 @@
 <p>The problems I ran into were figuring out which pins were the Vin, the analogue pin, and the ground pin. 
 It was very clear in the documentation on how to wire up the sensor and different sites gave different solutions (two of which I mainly reffered to are linked below).
 In trying to figure out how to make it work, I played around with the wire combinations and the resistor values and sadly ended up burning the hall effect sensor :(</p>
-<p>Even though I was unable to make the circuit work, this was a valuable experience.
+<p>Even though I was unable to make the circuit work, this was a valuable experience.</p>
+
+<p>I did not know about the data sheet until in class today. It is a valuable resource with a lot of information. I linked it below!</p>
 
 <h3>The Code</h3>
 <center><img src="4.png" width="50%"></center>
