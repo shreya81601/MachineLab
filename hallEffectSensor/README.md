@@ -39,5 +39,5 @@ Links to resources I used:
   <li>https://www.adafruit.com/datasheets/US5881_rev007.pdf (the data sheet)
 </ol>
  
-<h3>Presentation</h3>
-The presentation I prepared for class can be found here:
+<!-- <h3>Presentation</h3>
+The presentation I prepared for class can be found here: -->
